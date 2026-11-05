@@ -75,3 +75,5 @@ Thijmen: de "M" zit in het woord
 Sil: Ik gok de letter "D"
 
 Thijmen: "D" is een kutletter, maaaar zit wel in het woord.
+
+Noah: Ik gok de letter "P"
