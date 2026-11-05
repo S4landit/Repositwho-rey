@@ -8,7 +8,7 @@ Thijmen van der Zwan ThijmenZwan@tutamail.com
 
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 
-|.|.|.|.|E|.|.|E|.|.|.|.|.|.|.|.|.|.|E|E|
+|.|I|.|.|E|.|.|E|.|.|.|.|.|.|.|.|.|.|E|E|
 
 |1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|
 
@@ -20,18 +20,9 @@ Sil: ik gok de letter "A"
 
 Thijmen: er zit GEEN A in, BUAHAHAHAHAHAHA
 
->+-----+
->
->  |   |
->
->  O   |
->
->      |
->
->      |
->
->      |
->
->========
+<img width="77" height="82" alt="afbeelding" src="https://github.com/user-attachments/assets/cbfb9c09-8725-46a7-863c-f6dfa9eaa360" />
+
 
 Noah: Ik gok de letter "I"
+
+Thijmen: er zit 1 "I" in.
