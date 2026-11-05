@@ -85,3 +85,5 @@ Sil: Ik gok de letter "R"
 Thijmen: De R zit ook in het woord
 
 Noah: Ik gok de letter "B"
+
+Thijmen: <img width="219" height="222" alt="afbeelding" src="https://github.com/user-attachments/assets/05235f7b-bdf9-484c-89ce-ab2e27c50f3f" />
