@@ -82,4 +82,4 @@ Thijmen: Ook de letter "P" zit in het woord
 
 Sil: Ik gok de letter "R"
 
-De R zit ook in het woord
+Thijmen: De R zit ook in het woord
