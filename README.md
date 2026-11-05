@@ -20,11 +20,14 @@ Sil: ik gok de letter "A"
 
 Thijmen: er zit GEEN A in, BUAHAHAHAHAHAHA
 
-<img width="77" height="82" alt="afbeelding" src="https://github.com/user-attachments/assets/cbfb9c09-8725-46a7-863c-f6dfa9eaa360" />
-
+<img width="80" height="82" alt="afbeelding" src="https://github.com/user-attachments/assets/c927d434-d55f-4c80-94e0-dbe95fc92eb4" />
 
 Noah: Ik gok de letter "I"
 
 Thijmen: er zit 1 "I" in.
 
 Hugo: Ik gok de letter "E"
+
+Thijmen: ....
+
+<img width="77" height="78" alt="afbeelding" src="https://github.com/user-attachments/assets/d895eeb9-a74c-4f6e-84ef-617a95816636" />
