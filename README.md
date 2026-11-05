@@ -26,3 +26,5 @@ Thijmen: er zit GEEN A in, BUAHAHAHAHAHAHA
 Noah: Ik gok de letter "I"
 
 Thijmen: er zit 1 "I" in.
+
+Hugo: Ik gok de letter "E"
