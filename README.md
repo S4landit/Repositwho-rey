@@ -8,7 +8,7 @@ Thijmen van der Zwan ThijmenZwan@tutamail.com
 
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 
-|.|I|.|.|E|.|.|E|.|D|P|O|.|T|O|M|O|N|E|E|
+|.|I|.|.|E|.|.|E|.|D|P|O|R|T|O|M|O|N|E|E|
 
 |1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|
 
@@ -81,3 +81,5 @@ Noah: Ik gok de letter "P"
 Thijmen: Ook de letter "P" zit in het woord
 
 Sil: Ik gok de letter "R"
+
+De R zit ook in het woord
