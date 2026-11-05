@@ -33,3 +33,8 @@ Thijmen: ....
 <img width="77" height="78" alt="afbeelding" src="https://github.com/user-attachments/assets/d895eeb9-a74c-4f6e-84ef-617a95816636" />
 
 Sil: Ik gok de letter "K"
+
+Thijmen: Nee Sil "Kinder" zit niet in het woord
+
+<img width="67" height="89" alt="afbeelding" src="https://github.com/user-attachments/assets/4fbd0f59-fe85-43b6-afb4-9210d48326bc" />
+
