@@ -59,3 +59,7 @@ Thijmen: HATE. LET ME TELL YOU HOW MUCH I'VE COME TO HATE YOU SINCE I BEGAN TO L
 <img width="76" height="86" alt="afbeelding" src="https://github.com/user-attachments/assets/ef17255a-a947-42f6-bee7-b1a8c620bd6c" />
 
 Hugo:  e
+
+Thijmen: Hugo doet niet meer mee, Sil, jouw beurt
+
+<img width="1692" height="382" alt="afbeelding" src="https://github.com/user-attachments/assets/b2b21b81-949f-43b5-b738-f37da1685109" />
