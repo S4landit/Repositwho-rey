@@ -8,7 +8,7 @@ Thijmen van der Zwan ThijmenZwan@tutamail.com
 
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 
-|.|I|.|.|E|.|.|E|.|.|.|O|.|T|O|M|O|N|E|E|
+|.|I|.|.|E|.|.|E|.|D|.|O|.|T|O|M|O|N|E|E|
 
 |1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|
 
@@ -73,3 +73,5 @@ Noah: Ik gok de letter "M"
 Thijmen: de "M" zit in het woord
 
 Sil: Ik gok de letter "D"
+
+Thijmen: "D" is een kutletter, maaaar zit wel in het woord.
