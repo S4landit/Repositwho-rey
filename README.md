@@ -63,3 +63,5 @@ Hugo:  e
 Thijmen: Hugo doet niet meer mee, Sil, jouw beurt
 
 <img width="1692" height="382" alt="afbeelding" src="https://github.com/user-attachments/assets/b2b21b81-949f-43b5-b738-f37da1685109" />
+
+Sil: Ik gok de letter "O"
