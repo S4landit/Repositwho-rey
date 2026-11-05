@@ -79,3 +79,5 @@ Thijmen: "D" is een kutletter, maaaar zit wel in het woord.
 Noah: Ik gok de letter "P"
 
 Thijmen: Ook de letter "P" zit in het woord
+
+Sil: Ik gok de letter "R"
