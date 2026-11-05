@@ -43,3 +43,8 @@ Noah: Ik gok de letter "N"
 Thijmen: "N" zit "In het woord"
 
 Hugo: Ik gok "X". Je dacht dat ik E zou gokken he? Nee ik ben niet zo voorspelbaar.
+
+Thijmen: De "X" bestaat niet. Ik ben niet Elon F Musk
+
+<img width="84" height="89" alt="afbeelding" src="https://github.com/user-attachments/assets/ccf7c244-06ff-4ed0-a381-f3070b530899" />
+
