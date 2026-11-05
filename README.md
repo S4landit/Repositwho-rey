@@ -48,3 +48,5 @@ Thijmen: De "X" bestaat niet. Ik ben niet Elon F Musk
 
 <img width="84" height="89" alt="afbeelding" src="https://github.com/user-attachments/assets/ccf7c244-06ff-4ed0-a381-f3070b530899" />
 
+Sil: Ik gok de letter "T"
+
