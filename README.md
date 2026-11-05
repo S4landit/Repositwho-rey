@@ -51,3 +51,5 @@ Thijmen: De "X" bestaat niet. Ik ben niet Elon F Musk
 Sil: Ik gok de letter "T"
 
 Thijmen: de T zit erin. Goated letter ngl.
+
+Noah: Ik gok de letter "J"
