@@ -71,3 +71,5 @@ Thijmen: "O" zit erin.
 Noah: Ik gok de letter "M"
 
 Thijmen: de "M" zit in het woord
+
+Sil: Ik gok de letter "D"
