@@ -89,3 +89,9 @@ Noah: Ik gok de letter "B"
 Thijmen: <img width="219" height="222" alt="afbeelding" src="https://github.com/user-attachments/assets/05235f7b-bdf9-484c-89ce-ab2e27c50f3f" />
 
 Sil: Ik gok de letter "H"
+
+Thijmen: FOUT!!! Buahahaha ik win en nu is John Galgje dood
+
+<img width="208" height="216" alt="afbeelding" src="https://github.com/user-attachments/assets/089d07b0-acca-4204-a31f-57b48778cb54" />
+
+Het woord was WISSELGELDPORTOMONEE
