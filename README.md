@@ -17,3 +17,13 @@ Hugo: ik gok de letter "E"
 Thijmen: Er zitten 4 "E"s in het woord. Sils beurt *lacht kwaadaardig*
 
 Sil: ik gok de letter "A"
+
+Thijmen: er zit GEEN A in, BUAHAHAHAHAHAHA
+
+>+-----+
+>  |   |
+>  O   |
+>      |
+>      |
+>      |
+>========
