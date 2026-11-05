@@ -41,3 +41,5 @@ Thijmen: Nee Sil "Kinder" zit niet in het woord
 Noah: Ik gok de letter "N"
 
 Thijmen: "N" zit "In het woord"
+
+Hugo: Ik gok "X". Je dacht dat ik E zou gokken he? Nee ik ben niet zo voorspelbaar.
