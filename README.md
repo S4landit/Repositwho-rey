@@ -21,9 +21,15 @@ Sil: ik gok de letter "A"
 Thijmen: er zit GEEN A in, BUAHAHAHAHAHAHA
 
 >+-----+
+>
 >  |   |
+>
 >  O   |
+>
 >      |
+>
 >      |
+>
 >      |
+>
 >========
