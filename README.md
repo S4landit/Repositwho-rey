@@ -38,3 +38,4 @@ Thijmen: Nee Sil "Kinder" zit niet in het woord
 
 <img width="67" height="89" alt="afbeelding" src="https://github.com/user-attachments/assets/4fbd0f59-fe85-43b6-afb4-9210d48326bc" />
 
+Noah: Ik gok de letter "N"
