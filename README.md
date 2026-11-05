@@ -83,3 +83,5 @@ Thijmen: Ook de letter "P" zit in het woord
 Sil: Ik gok de letter "R"
 
 Thijmen: De R zit ook in het woord
+
+Noah: Ik gok de letter "B"
