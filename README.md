@@ -67,3 +67,5 @@ Thijmen: Hugo doet niet meer mee, Sil, jouw beurt
 Sil: Ik gok de letter "O"
 
 Thijmen: "O" zit erin. 
+
+Noah: Ik gok de letter "M"
